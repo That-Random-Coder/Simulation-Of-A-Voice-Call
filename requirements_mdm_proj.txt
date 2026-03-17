@@ -1,0 +1,9 @@
+numpy
+scipy
+sounddevice
+flask
+flask-socketio
+PyQt5
+PyOpenGL
+eventlet
+PyOpenSSL
